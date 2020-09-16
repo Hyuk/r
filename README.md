@@ -1,5 +1,5 @@
 # R
-R programming
+All about R programming
 
 ## Useful Links
 * [Datacamp](https://www.datacamp.com/)
